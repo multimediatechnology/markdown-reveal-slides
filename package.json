@@ -1,0 +1,8 @@
+{
+  "name": "fhs-reveal-slides",
+  "version": "1.0.0",
+  "description": "Markdown Slides for FH Salzburg",
+  "scripts": {
+    "start": "reveal-md --theme theme.css"
+  }
+}
